@@ -15,7 +15,7 @@ Tecnologias Utilizadas
 - Python
 
 Instalação
-1. Clone o repositório: git clone https://github.com/[seu-usuario]/fish_n_chips.git
+1. Clone o repositório: git clone https://github.com/suatiacareca/fish_n_chips.git
 2. Instale as dependências: pip install -r requirements.txt
 3. Execute o projeto: python app.py
 
